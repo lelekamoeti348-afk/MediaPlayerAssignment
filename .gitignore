@@ -1,0 +1,18 @@
+# Compiled class files
+bin/
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JavaFX SDK binaries (users should download these themselves)
+lib/
+
+# Logs
+*.log
